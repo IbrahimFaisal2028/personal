@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#Apps{
+    background-color: aquamarine;
+}
+#Games{
+    background-color: bisque;
+    padding-bottom: 20px;
+}
+#ChatBot{
+    background-color: burlywood;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: slategrey;
+    margin: 8px auto;
+}
